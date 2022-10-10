@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gym-Exercise/static/css/main.20acbc28.css",
+    "main.js": "/Gym-Exercise/static/js/main.68dbb2e5.js",
+    "static/media/banner.png": "/Gym-Exercise/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/Gym-Exercise/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/Gym-Exercise/index.html",
+    "main.20acbc28.css.map": "/Gym-Exercise/static/css/main.20acbc28.css.map",
+    "main.68dbb2e5.js.map": "/Gym-Exercise/static/js/main.68dbb2e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.68dbb2e5.js"
+  ]
+}
